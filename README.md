@@ -22,3 +22,5 @@ Manage-X/
 ├── backend/            # Backend Node/Express server configuration
 ├── backend-project/    # Additional backend components/services
 └── package.json        # Root configuration (if applicable)
+This project is made up by
+ISHAN MISHRA
