@@ -65,7 +65,7 @@ const Services = () => {
             <h2>📞 Get In Touch</h2>
 
             <p>
-              <strong>📱 Phone :</strong> 9040107065 |  90402 88101
+              <strong>📱 Phone :</strong> 9040107065
             </p>
 
             <p>
